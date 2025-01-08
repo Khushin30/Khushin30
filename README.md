@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushin Patel</h1>
 <h3 align="center">A graduate looking to learn more about Machine Learning and Quantum Computing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushin30" alt="khushin30" /></a> </p>
-
 - 🔭 I’m currently working on **An image caption generating transformer**
 
 - 🌱 I’m currently learning **Concepts and frameworks related to ML and Quantum Computing**
+
+- 👯 I’m looking to collaborate on **Any software development projects**
 
 - 🤝 I’m looking for help with **Getting hired at a software development role**
 

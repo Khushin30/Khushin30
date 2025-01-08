@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Khushin Patel</h1>
+<h1 align="center">Hello World! I'm Khushin</h1>
 <h3 align="center">A graduate looking to learn more about Machine Learning and Quantum Computing</h3>
 
 - 🔭 I’m currently working on **An image caption generating transformer**

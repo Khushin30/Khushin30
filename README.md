@@ -1,11 +1,9 @@
-<h1 align="center">Hello World! I'm Khushin</h1>
-<h3 align="center">Recent graduate eager to learn more about Machine Learning and Quantum Computing.</h3>
+<h1 align="center">Hi 👋, I'm Khushin Patel</h1>
+<h3 align="center">A graduate looking to learn more about Machine Learning and Quantum Computing</h3>
 
 - 🔭 I’m currently working on **An image caption generating transformer**
 
 - 🌱 I’m currently learning **Concepts and frameworks related to ML and Quantum Computing**
-
-- 🤝 I’m looking for help with **Getting hired at a software development role**
 
 - 📫 How to reach me **khushinpat@gmail.com**
 
@@ -13,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushin-patel-857a481a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushin-patel-857a481a9/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/khushinpatel30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/khushinpatel30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/khushin30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/khushin30/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khushin-patel-857a481a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushin-patel-857a481a9/" height="30" width="40" /></a>
+<a href="https://kaggle.com/khushinpatel30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khushinpatel30" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/khushin30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushin30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

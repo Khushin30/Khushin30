@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Concepts and frameworks related to ML and Quantum Computing**
 
-- 👯 I’m looking to collaborate on **Any software development projects**
-
 - 🤝 I’m looking for help with **Getting hired at a software development role**
 
 - 📫 How to reach me **khushinpat@gmail.com**
